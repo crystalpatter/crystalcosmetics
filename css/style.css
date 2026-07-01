@@ -542,3 +542,20 @@ a:focus-visible, button:focus-visible {
 }
 
 img, .ph { transition: transform .5s cubic-bezier(.22,1,.36,1); }
+
+/* ===== Homepage refresh: real hero + content photography (v2) ===== */
+.ph-hero1 { background-image:url('/images/hero/Crystal_Cosmetics_36.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-hero2 { background-image:url('/images/hero/Crystal_Cosmetics_27.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-hero3 { background-image:url('/images/hero/Crystal_Cosmetics_20.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-hero4 { background-image:url('/images/hero/Crystal_Cosmetics_38.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-lip { background-image:url('/images/services/Crystal_Cosmetics_02.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-train { background-image:url('/images/training/Crystal_Cosmetics_09.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-train2 { background-image:url('/images/training/Crystal_Cosmetics_03.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c1 { background-image:url('/images/products/Crystal_Cosmetics_10.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c2 { background-image:url('/images/products/Crystal_Cosmetics_7.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c3 { background-image:url('/images/products/Crystal_Cosmetics_5.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c4 { background-image:url('/images/products/Crystal_Cosmetics_2.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c5 { background-image:url('/images/products/Crystal_Cosmetics_25.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c6 { background-image:url('/images/products/Crystal_Cosmetics_24.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-blog1 { background-image:url('/images/blog/0B4A5380.jpg'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-blog2 { background-image:url('/images/blog/Crystal_Cosmetics_29.webp'); background-size:cover; background-position:center; background-color:transparent; }
