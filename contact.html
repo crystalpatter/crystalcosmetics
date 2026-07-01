@@ -63,8 +63,8 @@
       <span class="lbl">Send a Message</span>
       <h2 class="sh" style="font-size:32px;">Let's Talk</h2>
       <form data-noop="1">
-        <div class="form-row"><label>Name</label><input type="text" required></div>
-        <div class="form-row"><label>Email</label><input type="email" required></div>
+        <div class="form-row"><label>Name</label><input type="text" name="name" required></div>
+        <div class="form-row"><label>Email</label><input type="email" name="email" required></div>
         <div class="form-row">
           <label>I need help with</label>
           <select>
@@ -76,7 +76,7 @@
             <option>Other</option>
           </select>
         </div>
-        <div class="form-row"><label>Message</label><textarea required></textarea></div>
+        <div class="form-row"><label>Message</label><textarea name="message" required></textarea></div>
         <button class="form-submit">Send Message</button>
       </form>
     </div>
@@ -115,7 +115,7 @@
     <h2 class="nl-h">Stay in the <em>Glow</em><br>with Crystal</h2>
     <p class="nl-p">Beauty trends, exclusive offers, treatment insights &amp; new product drops — straight to your inbox.</p>
     <form class="nl-form" data-noop="1">
-      <input type="email" class="nl-input" placeholder="Your email address" required>
+      <input type="email" name="email" class="nl-input" placeholder="Your email address" required>
       <button class="nl-btn">Subscribe</button>
     </form>
   </div>

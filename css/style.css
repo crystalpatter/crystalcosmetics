@@ -421,3 +421,124 @@ footer { background: var(--dark); padding: 64px 80px 30px; color: rgba(255,255,2
   .ft-top { grid-template-columns: 1fr 1fr; }
   .book-band { padding: 32px 24px; flex-direction: column; align-items: flex-start; }
 }
+
+/* ===== Real photography (auto-wired) ===== */
+.ph-hero1 { background-image:url('/images/hero/Crystal_Cosmetics_43.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-hero2 { background-image:url('/images/hero/Crystal_Cosmetics_41.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-hero3 { background-image:url('/images/hero/Crystal_Cosmetics_38.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-hero4 { background-image:url('/images/hero/Crystal_Cosmetics_35.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-cit { background-image:url('/images/services/Collagen_induction_therapy_microneedling.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-lashes { background-image:url('/images/services/Crystal_Cosmetics_42.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-brows { background-image:url('/images/services/Brow_Lamination.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-lip { background-image:url('/images/services/Crystal_Cosmetics_04_2.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-nude { background-image:url('/images/services/Crystal_Cosmetics_37.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-before { background-image:url('/images/services/Lip_Blush_Before.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-after { background-image:url('/images/services/Lip_Blush_After.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-founder { background-image:url('/images/about/Crystal_Cosmetics_35.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-train { background-image:url('/images/training/Crystal_Cosmetics_33.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-train2 { background-image:url('/images/training/Crystal_Cosmetics_34.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig1 { background-image:url('/images/instagram/Crystal_Cosmetics_44.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig2 { background-image:url('/images/instagram/Crystal_Cosmetics_43.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig3 { background-image:url('/images/instagram/Crystal_Cosmetics_42.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig4 { background-image:url('/images/instagram/Crystal_Cosmetics_41.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig5 { background-image:url('/images/instagram/Crystal_Cosmetics_40.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig6 { background-image:url('/images/instagram/Crystal_Cosmetics_39.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-blog1 { background-image:url('/images/blog/Lip_Blush_After_M.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-blog2 { background-image:url('/images/blog/Crystal_Cosmetics_40.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-blog3 { background-image:url('/images/blog/Lip_Blush_Before_M.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c1 { background-image:url('/images/products/CrystalCosmeticTweezers.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c2 { background-image:url('/images/products/Lip_Blush_After.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c3 { background-image:url('/images/products/TattooPractisingSkin.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c4 { background-image:url('/images/products/Micro-needleDermaRoller.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c5 { background-image:url('/images/products/BrowMappingPaste.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c6 { background-image:url('/images/products/PlatinumContourRoller.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-p1 { background-image:url('/images/products/Micro-needleDermaRoller.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-p2 { background-image:url('/images/products/BeautyBar1.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-p3 { background-image:url('/images/products/PlatinumCryotherapyFacialSet.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-p4 { background-image:url('/images/products/PlatinumContourRoller2.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-slot { background-image:url('/images/services/Crystal_Cosmetics_36.webp'); background-size:cover; background-position:center; background-color:transparent; }
+
+/* ===== Real photography (auto-wired) ===== */
+.ph-hero1 { background-image:url('/images/hero/Crystal_Cosmetics_43.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-hero2 { background-image:url('/images/hero/Crystal_Cosmetics_41.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-hero3 { background-image:url('/images/hero/Crystal_Cosmetics_38.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-hero4 { background-image:url('/images/hero/Crystal_Cosmetics_35.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-cit { background-image:url('/images/services/Collagen_induction_therapy_microneedling.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-lashes { background-image:url('/images/services/Crystal_Cosmetics_42.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-brows { background-image:url('/images/services/Brow_Lamination.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-lip { background-image:url('/images/services/Crystal_Cosmetics_04_2.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-nude { background-image:url('/images/services/Crystal_Cosmetics_37.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-before { background-image:url('/images/services/Lip_Blush_Before.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-after { background-image:url('/images/services/Lip_Blush_After.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-founder { background-image:url('/images/about/Crystal_Cosmetics_35.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-train { background-image:url('/images/training/Crystal_Cosmetics_33.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-train2 { background-image:url('/images/training/Crystal_Cosmetics_34.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig1 { background-image:url('/images/instagram/Crystal_Cosmetics_44.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig2 { background-image:url('/images/instagram/Crystal_Cosmetics_43.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig3 { background-image:url('/images/instagram/Crystal_Cosmetics_42.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig4 { background-image:url('/images/instagram/Crystal_Cosmetics_41.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig5 { background-image:url('/images/instagram/Crystal_Cosmetics_40.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig6 { background-image:url('/images/instagram/Crystal_Cosmetics_39.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-blog1 { background-image:url('/images/blog/Lip_Blush_After_M.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-blog2 { background-image:url('/images/blog/Crystal_Cosmetics_40.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-blog3 { background-image:url('/images/blog/Lip_Blush_Before_M.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c1 { background-image:url('/images/products/CrystalCosmeticTweezers.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c2 { background-image:url('/images/products/Lip_Blush_After.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c3 { background-image:url('/images/products/TattooPractisingSkin.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c4 { background-image:url('/images/products/Micro-needleDermaRoller.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c5 { background-image:url('/images/products/BrowMappingPaste.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-c6 { background-image:url('/images/products/PlatinumContourRoller.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-p1 { background-image:url('/images/products/Micro-needleDermaRoller.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-p2 { background-image:url('/images/products/BeautyBar1.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-p3 { background-image:url('/images/products/PlatinumCryotherapyFacialSet.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-p4 { background-image:url('/images/products/PlatinumContourRoller2.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-slot { background-image:url('/images/services/Crystal_Cosmetics_36.webp'); background-size:cover; background-position:center; background-color:transparent; }
+
+/* ===== Design polish pass: refined motion, depth & elegance ===== */
+a, button, .btn-nav, .btn-white, .btn-ghost, .btn-dark, .btn-light, .btn-charcoal, .btn-ol {
+  transition: color .3s ease, background-color .3s ease, border-color .3s ease,
+              box-shadow .35s cubic-bezier(.22,1,.36,1), transform .35s cubic-bezier(.22,1,.36,1);
+}
+
+.nav-links a { position: relative; }
+.nav-links a::after {
+  content: ""; position: absolute; left: 0; right: 100%; bottom: -4px; height: 1px;
+  background: var(--gold); transition: right .35s cubic-bezier(.22,1,.36,1);
+}
+.nav-links a:hover::after { right: 0; }
+
+.btn-nav:hover, .btn-white:hover, .btn-dark:hover, .btn-charcoal:hover, .btn-light:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(28,20,16,.18);
+}
+.btn-ghost:hover, .btn-ol:hover { transform: translateY(-1px); }
+
+.prod-card { transition: transform .35s cubic-bezier(.22,1,.36,1), box-shadow .35s ease; border-radius: 2px; }
+.prod-card:hover { transform: translateY(-4px); box-shadow: 0 18px 30px rgba(28,20,16,.14); }
+.prod-img-bg { transition: transform .6s cubic-bezier(.22,1,.36,1); }
+.prod-img-wrap { overflow: hidden; }
+
+.page-hero .ph { transform: scale(1.06); animation: heroSettle 8s cubic-bezier(.22,1,.36,1) forwards; }
+@keyframes heroSettle { to { transform: scale(1); } }
+
+.sh { position: relative; }
+.sh em { position: relative; }
+.sh::after {
+  content: ""; display: block; width: 46px; height: 2px; background: var(--gold);
+  margin-top: 14px;
+}
+[style*="text-align:center"] .sh::after,
+[style*="text-align: center"] .sh::after { margin-left: auto; margin-right: auto; }
+
+a:focus-visible, button:focus-visible {
+  outline: 2px solid var(--gold); outline-offset: 3px;
+}
+
+.svc-card, .course-card, .testi-card, .blog-card, .faq-item {
+  transition: box-shadow .35s ease, transform .35s cubic-bezier(.22,1,.36,1);
+}
+.svc-card:hover, .course-card:hover, .blog-card:hover {
+  transform: translateY(-3px); box-shadow: 0 16px 28px rgba(28,20,16,.12);
+}
+
+img, .ph { transition: transform .5s cubic-bezier(.22,1,.36,1); }

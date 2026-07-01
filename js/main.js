@@ -36,10 +36,36 @@
   });
 })();
 
-// Newsletter / contact form placeholders — replace action with your form handler
+// Newsletter / contact form wiring
+var FORMSPREE_ENDPOINT = ""; // paste your Formspree endpoint here once verified, e.g. "https://formspree.io/f/xxxxxxx"
+var CONTACT_EMAIL = "info@crystalcosmetics.com.au";
+
 document.querySelectorAll('form[data-noop]').forEach(f => {
-  f.addEventListener('submit', e => {
+  f.addEventListener('submit', function (e) {
     e.preventDefault();
-    alert('Form wiring goes here — connect to Formspree, GoDaddy email forms, or your handler of choice. See README.');
+    var data = new FormData(f);
+
+    if (FORMSPREE_ENDPOINT) {
+      fetch(FORMSPREE_ENDPOINT, {
+        method: 'POST',
+        headers: { 'Accept': 'application/json' },
+        body: data
+      }).then(function (res) {
+        if (res.ok) {
+          alert('Thanks! Your message has been sent.');
+          f.reset();
+        } else {
+          alert('Something went wrong sending your message. Please email us directly at ' + CONTACT_EMAIL + '.');
+        }
+      }).catch(function () {
+        alert('Something went wrong sending your message. Please email us directly at ' + CONTACT_EMAIL + '.');
+      });
+    } else {
+      var subject = encodeURIComponent('Website enquiry from ' + (data.get('name') || 'your website'));
+      var bodyLines = [];
+      data.forEach(function (value, key) { bodyLines.push(key + ': ' + value); });
+      var body = encodeURIComponent(bodyLines.join('\n'));
+      window.location.href = 'mailto:' + CONTACT_EMAIL + '?subject=' + subject + '&body=' + body;
+    }
   });
 });
