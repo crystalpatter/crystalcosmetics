@@ -564,3 +564,7 @@ img, .ph { transition: transform .5s cubic-bezier(.22,1,.36,1); }
 .page-hero .ph-lip { background-image:url('/images/services/Crystal_Cosmetics_04_2.webp'); background-position: center; }
 .page-hero .ph-train { background-image:url('/images/training/Crystal_Cosmetics_33.webp'); background-position: center; }
 .page-hero .ph-founder { background-image:url('/images/hero/Crystal_Cosmetics_36.webp'); background-position: center; }
+
+/* ===== Fix repeated photos: unique images for Powder Brows tile + Instagram slot 3 ===== */
+.ph-brows2 { background-image:url('/images/services/Crystal_Cosmetics_06.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-ig3 { background-image:url('/images/instagram/Crystal_Cosmetics_11.webp'); background-size:cover; background-position:center; background-color:transparent; }
