@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "index.html is missing a meta description entirely; adding one using service names already on the page improves SEO.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announce bar says 'Free Shipping Over $80' but this FAQ says $100; flagging for Crystal to confirm the correct threshold.",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "Blog card link uses malformed path blog/index.html/…; the correct file path blog/lip-blushing-reviews-was-it-worth-it.html matches the blog/index.html listing.",
+    "category": "cta_copy"
+  }
+]
