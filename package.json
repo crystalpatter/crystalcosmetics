@@ -1,0 +1,8 @@
+{
+  "name": "crystalcosmetics-site",
+  "private": true,
+  "description": "Static site with one Vercel serverless function (api/chat.js) powering the on-site AI assistant. No build step - Vercel serves the repo root as static files and deploys api/*.js as functions.",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1"
+  }
+}
