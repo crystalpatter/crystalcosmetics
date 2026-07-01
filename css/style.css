@@ -559,3 +559,8 @@ img, .ph { transition: transform .5s cubic-bezier(.22,1,.36,1); }
 .ph-c6 { background-image:url('/images/products/Crystal_Cosmetics_24.webp'); background-size:cover; background-position:center; background-color:transparent; }
 .ph-blog1 { background-image:url('/images/blog/0B4A5380.jpg'); background-size:cover; background-position:center; background-color:transparent; }
 .ph-blog2 { background-image:url('/images/blog/Crystal_Cosmetics_29.webp'); background-size:cover; background-position:center; background-color:transparent; }
+
+/* ===== Page-hero banner: dedicated wide/well-composed photos ===== */
+.page-hero .ph-lip { background-image:url('/images/services/Crystal_Cosmetics_04_2.webp'); background-position: center; }
+.page-hero .ph-train { background-image:url('/images/training/Crystal_Cosmetics_33.webp'); background-position: center; }
+.page-hero .ph-founder { background-image:url('/images/hero/Crystal_Cosmetics_36.webp'); background-position: center; }
