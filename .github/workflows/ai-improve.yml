@@ -1,0 +1,74 @@
+name: Crystal Cosmetics AI Improvement Agent
+
+# Runs 3x/day at roughly 8am / 2pm / 8pm Gold Coast time (AEST, UTC+10,
+# no daylight saving in Queensland). Adjust the cron lines if that ever
+# changes. Also runnable manually from the Actions tab at any time.
+on:
+  schedule:
+    - cron: '0 22 * * *'
+    - cron: '0 4 * * *'
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual run'
+        required: false
+        default: 'Manual improvement run'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  ai-improve:
+    runs-on: ubuntu-latest
+    name: Run AI Improvement Agent
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install agent dependencies
+        working-directory: automation
+        run: npm install
+
+      - name: Run AI Agent (safe edits applied, content edits queued)
+        working-directory: automation
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/run-ai-agent.mjs
+
+      - name: Commit safe/technical changes directly to main
+        run: |
+          git config --global user.name "Crystal Cosmetics AI Agent"
+          git config --global user.email "ai-agent@crystalcosmetics.vercel.app"
+          git add -A
+          git reset -- automation/.tmp-review-edits.json automation/.tmp-pr-body.md 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No safe/technical changes to commit."
+          else
+            git commit -m "AI site improvements (auto, safe-tier) - $(date -u +%Y-%m-%d-%H%M)"
+            git pull --rebase origin main || true
+            git push origin main
+          fi
+
+      - name: Open or update today's content-review PR
+        working-directory: automation
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-review-pr.mjs
+
+      - name: Summary
+        run: |
+          echo "## AI Improvement Agent - Run Complete" >> $GITHUB_STEP_SUMMARY
+          echo "Time: $(date -u)" >> $GITHUB_STEP_SUMMARY
+          echo "Safe/technical changes (if any): pushed directly to main." >> $GITHUB_STEP_SUMMARY
+          echo "Content/copy changes (if any): queued in today's review PR for Crystal's approval." >> $GITHUB_STEP_SUMMARY

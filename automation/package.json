@@ -1,0 +1,9 @@
+{
+  "name": "crystalcosmetics-ai-agent",
+  "private": true,
+  "type": "module",
+  "description": "Scheduled AI improvement agent for the Crystal Cosmetics static site. Lives in this subfolder so it never affects Vercel's static build.",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1"
+  }
+}

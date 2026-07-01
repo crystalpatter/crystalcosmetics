@@ -1,0 +1,5 @@
+
+# AI improvement agent scratch files (never committed to main)
+automation/node_modules/
+automation/.tmp-review-edits.json
+automation/.tmp-pr-body.md
