@@ -13,5 +13,10 @@
     "file": "index.html",
     "reason": "Blog card link uses malformed path blog/index.html/…; the correct file path blog/lip-blushing-reviews-was-it-worth-it.html matches the blog/index.html listing.",
     "category": "cta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Fixes broken blog link to match the correct file path used in blog/index.html; flagged for review since it appears alongside customer-facing blog content.",
+    "category": "cta_copy"
   }
 ]
