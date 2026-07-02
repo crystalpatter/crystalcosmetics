@@ -1,0 +1,12 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Product card links to non-existent index.html/products/… path (leftover Shopify URL); linking to shop/skin.html as the closest valid destination until individual product pages exist.",
+    "category": "cta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Another broken Shopify product link (Beauty Bar) pointing to index.html/products/…; redirecting to shop/skin.html as the valid collection page.",
+    "category": "cta_copy"
+  }
+]
