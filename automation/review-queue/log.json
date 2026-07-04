@@ -13,5 +13,10 @@
     "file": "index.html",
     "reason": "The hero CTA links to a single product category (skin) rather than the full shop landing page, which better matches the broad 'Shop Nude by Crystal' label.",
     "category": "cta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adding the primary service keyword 'Lip Blushing & Cosmetic Tattooing' to the homepage title tag improves search visibility for the studio's core offering.",
+    "category": "meta_copy"
   }
 ]
