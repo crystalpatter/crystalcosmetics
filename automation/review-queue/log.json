@@ -13,5 +13,10 @@
     "file": "services/cosmetic-tattooing.html",
     "reason": "Adding a call-to-action and mentioning page content (before & afters, FAQs) in the meta description can improve click-through rate from search.",
     "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Incorporating 'lip blush' and 'no makeup routine' into the hero subheadline reinforces the core value proposition and adds a high-intent keyword.",
+    "category": "cta_copy"
   }
 ]
