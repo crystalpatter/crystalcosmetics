@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Expand the generic meta description with specific service keywords to improve search relevance for key Gold Coast queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ says free shipping over $100, but the announcement bar on every page says 'Free Shipping Over $80' — align the FAQ to match the site-wide banner.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Add a call-to-action and suburb name to the meta description to improve click-through rate and local search relevance.",
+    "category": "meta_copy"
+  }
+]
