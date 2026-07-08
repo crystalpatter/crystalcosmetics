@@ -1,0 +1,22 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; a more specific description naming key services improves CTR in search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The announce bar across every page says 'Free Shipping Over $80' but this FAQ answer says 'over $100' — aligning to the $80 threshold shown site-wide.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding a call-to-action and mentioning page content (before & afters, FAQs) in the meta description can improve click-through rate from search.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Incorporating 'lip blush' and 'no makeup routine' into the hero subheadline reinforces the core value proposition and adds a high-intent keyword.",
+    "category": "cta_copy"
+  }
+]
