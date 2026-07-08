@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Current meta description is generic and duplicates footer copy; proposed version includes key service terms (lip blushing, powder brows) for search visibility and a clearer call to action.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announcement bar says 'Free Shipping Over $80' but this FAQ answer says '$100'; updating the FAQ to match the $80 threshold shown in the banner.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding a call-to-action and the brand's signature phrase to the services meta description to improve click-through from search results.",
+    "category": "meta_copy"
+  }
+]
