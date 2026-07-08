@@ -1,0 +1,22 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Current meta description is generic and duplicated in the footer; a more specific description improves CTR for key search terms like 'lip blushing Gold Coast'.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ states free shipping over $100 but the site-wide announcement bar on every page says 'Free Shipping Over $80' — this corrects the FAQ to match the banner.",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "The hero CTA links to a single product category (skin) rather than the full shop landing page, which better matches the broad 'Shop Nude by Crystal' label.",
+    "category": "cta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adding the primary service keyword 'Lip Blushing & Cosmetic Tattooing' to the homepage title tag improves search visibility for the studio's core offering.",
+    "category": "meta_copy"
+  }
+]
