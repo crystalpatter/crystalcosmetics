@@ -1,0 +1,27 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Product card links to non-existent index.html/products/… path (leftover Shopify URL); linking to shop/skin.html as the closest valid destination until individual product pages exist.",
+    "category": "cta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Another broken Shopify product link (Beauty Bar) pointing to index.html/products/…; redirecting to shop/skin.html as the valid collection page.",
+    "category": "cta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic and duplicated in the footer; a more specific description improves search click-through for key services and the brand name.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ states free shipping over $100 but the site-wide announcement bar on every page says 'Free Shipping Over $80' — one of these is incorrect and they should be consistent.",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "The 'Follow' CTA link text says @crystal.cosmetics.gc but the href points to __crystalcosmetics — correcting the URL to match the displayed handle and all other pages.",
+    "category": "cta_copy"
+  }
+]
