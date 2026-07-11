@@ -18,5 +18,10 @@
     "file": "index.html",
     "reason": "Add LocalBusiness structured data using only values that appear verbatim in the site files (contact.html address, phone, email; index.html description; social URLs from footer).",
     "category": "safety_downgrade"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add LocalBusiness structured data using only values that appear verbatim in the site files (contact.html address, phone, email; index.html description; social links).",
+    "category": "safety_downgrade"
   }
 ]
