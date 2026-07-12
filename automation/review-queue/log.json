@@ -13,5 +13,10 @@
     "file": "services/cosmetic-tattooing.html",
     "reason": "Expand the meta description to mention page content (before & afters, FAQs, booking) for richer SERP snippets and improved CTR.",
     "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Enriches the About page meta description with role keywords already used on the page (lip blushing specialist, founder, Nude by Crystal) for better search visibility.",
+    "category": "meta_copy"
   }
 ]
