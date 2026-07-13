@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; adding specific service names (lip blushing, powder brows) and a CTA improves search relevance for high-intent Gold Coast queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ states free shipping over $100 but the site-wide announcement banner on every page says 'Free Shipping Over $80' — this corrects the FAQ to match the banner.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding 'on the Gold Coast' to the hero subheading reinforces local relevance for search without changing tone.",
+    "category": "service_copy"
+  }
+]
