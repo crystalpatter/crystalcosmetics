@@ -13,5 +13,10 @@
     "file": "services/cosmetic-tattooing.html",
     "reason": "Adding 'on the Gold Coast' to the hero subheading reinforces local relevance for search without changing tone.",
     "category": "service_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding a call-to-action in the meta description can improve click-through rate from search results for high-intent cosmetic tattooing queries.",
+    "category": "meta_copy"
   }
 ]
