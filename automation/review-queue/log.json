@@ -1,0 +1,22 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic and doesn't include key search terms like 'lip blushing' or 'powder brows' that prospective clients would search for.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ states free shipping over $100, but the site-wide announcement banner on every page says 'Free Shipping Over $80' — this inconsistency needs Crystal to confirm the correct threshold.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding a call-to-action and the suburb name to the meta description to improve click-through from search results for local queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adding primary service keywords (lip blushing, cosmetic tattooing) to the homepage title tag improves organic search visibility for the studio's core offerings.",
+    "category": "meta_copy"
+  }
+]
