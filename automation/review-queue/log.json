@@ -23,5 +23,10 @@
     "file": "index.html",
     "reason": "Add LocalBusiness structured data using only values that appear verbatim in the provided files (contact.html address, phone, email; index.html description and social URLs).",
     "category": "safety_downgrade"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand the meta description with a soft CTA and the page's core value proposition to improve click-through from search results.",
+    "category": "meta_copy"
   }
 ]
