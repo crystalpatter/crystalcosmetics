@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; this version includes specific service names and the brand line to improve search relevance for Gold Coast cosmetic tattooing queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ states free shipping over $100 but the announce bar on every page says 'Free Shipping Over $80' — this aligns the FAQ answer with the sitewide banner to avoid contradicting the advertised threshold.",
+    "category": "faq_content"
+  },
+  {
+    "file": "about.html",
+    "reason": "Enriches the About page meta description with specific role terms already used on the page (lip blushing specialist, founder, Nude by Crystal) to improve search snippet relevance.",
+    "category": "meta_copy"
+  }
+]
