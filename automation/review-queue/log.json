@@ -13,5 +13,15 @@
     "file": "about.html",
     "reason": "Enriches the About page meta description with specific role terms already used on the page (lip blushing specialist, founder, Nude by Crystal) to improve search snippet relevance.",
     "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "Adds a warmer, more inviting tone to the contact page hero subtitle while keeping it concise.",
+    "category": "cta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add LocalBusiness structured data using only values that appear verbatim in the provided files (contact.html address, phone, email; index.html description and social URLs).",
+    "category": "safety_downgrade"
   }
 ]
