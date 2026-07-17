@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic and doesn't include high-intent search terms like 'lip blushing' or 'powder brows'; this version targets key services while staying within 160 characters.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announcement bar says 'Free Shipping Over $80' but this FAQ answer says '$100' — one of the two is incorrect and they should be consistent.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding a call-to-action and benefit phrase to the meta description can improve click-through rate from search results for this key service page.",
+    "category": "meta_copy"
+  }
+]
