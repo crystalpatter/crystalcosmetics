@@ -13,5 +13,10 @@
     "file": "services/cosmetic-tattooing.html",
     "reason": "Adding a call-to-action and benefit phrase to the meta description can improve click-through rate from search results for this key service page.",
     "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add LocalBusiness structured data using only values that appear verbatim in the provided files (contact.html has the address, phone, and email).",
+    "category": "safety_downgrade"
   }
 ]
