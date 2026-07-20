@@ -1,0 +1,22 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Replace generic title with primary-service keywords to improve search visibility for lip blushing and cosmetic tattooing queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Rewrite meta description to include high-intent keywords (lip blushing, powder brows) and a clearer value proposition for search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ says free shipping over $100, but the site-wide announcement banner says free shipping over $80 — aligning the FAQ to match the banner.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand meta description to include compelling details (before & afters, booking CTA) that appear on the page, improving SERP click-through for the key services page.",
+    "category": "meta_copy"
+  }
+]
