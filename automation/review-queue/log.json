@@ -13,5 +13,15 @@
     "file": "index.html",
     "reason": "Incorporating specific service names into the hero subheading improves SEO relevance for high-intent searches and tells visitors exactly what's offered.",
     "category": "cta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding a call-to-action and the brand's hero tagline to the services meta description to improve search click-through.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add LocalBusiness structured data using only values that appear verbatim in the provided files (contact.html address, phone, email and footer description).",
+    "category": "safety_downgrade"
   }
 ]
