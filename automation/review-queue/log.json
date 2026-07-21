@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic and misses high-value search terms like lip blushing, powder brows, and the brand name — a more specific description improves click-through from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ states free shipping over $100, but the site-wide announcement bar on every page says 'Free Shipping Over $80' — these should be consistent.",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "Incorporating specific service names into the hero subheading improves SEO relevance for high-intent searches and tells visitors exactly what's offered.",
+    "category": "cta_copy"
+  }
+]
