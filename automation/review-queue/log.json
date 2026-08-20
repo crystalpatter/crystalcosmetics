@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; a more specific description listing key services improves search click-through for Gold Coast cosmetic tattooing queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ states free shipping over $100, but the site-wide announcement banner on every page says 'Free Shipping Over $80' — this corrects the FAQ to match.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding a call-to-action and the suburb name to the meta description improves local SEO relevance and click-through rate.",
+    "category": "meta_copy"
+  }
+]
