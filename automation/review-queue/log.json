@@ -13,5 +13,10 @@
     "file": "services/cosmetic-tattooing.html",
     "reason": "Adding a call-to-action and the suburb name to the meta description improves local SEO relevance and click-through rate.",
     "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add LocalBusiness structured data using only values that appear verbatim in the provided files (contact.html and index.html).",
+    "category": "safety_downgrade"
   }
 ]
