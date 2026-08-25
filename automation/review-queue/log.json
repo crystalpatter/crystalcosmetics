@@ -1,0 +1,22 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic and brand-focused; this revision targets high-intent search queries (lip blushing, powder brows, cosmetic tattooing Gold Coast) while surfacing the shop and training offerings.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The announce bar site-wide says 'Free Shipping Over $80' but this FAQ answer says over $100 — correcting to match the $80 threshold displayed elsewhere (needs Crystal to confirm which is accurate).",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adds a call-to-action and the brand's hero tagline concept into the meta description for the key services landing page, improving click-through from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Including the brand name 'Nude by Crystal' in the shop meta description reinforces brand recognition and aligns with on-page headings.",
+    "category": "meta_copy"
+  }
+]
