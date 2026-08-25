@@ -13,5 +13,10 @@
     "file": "services/cosmetic-tattooing.html",
     "reason": "Adds a call-to-action and the brand's hero tagline concept into the meta description for the key services landing page, improving click-through from search results.",
     "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Including the brand name 'Nude by Crystal' in the shop meta description reinforces brand recognition and aligns with on-page headings.",
+    "category": "meta_copy"
   }
 ]
