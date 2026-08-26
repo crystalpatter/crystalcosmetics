@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Replace the generic meta description with one that names specific services and includes a call to action, improving search click-through for key service queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announcement bar says 'Free Shipping Over $80' but this FAQ says over $100 — updating to $80 to match the banner (flagged for Crystal to confirm the correct threshold).",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand the meta description to surface the page's rich content (process steps, before/after, FAQs) and include a booking CTA for better search click-through.",
+    "category": "meta_copy"
+  }
+]
