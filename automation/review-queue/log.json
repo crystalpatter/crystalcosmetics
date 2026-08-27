@@ -13,5 +13,10 @@
     "file": "services/cosmetic-tattooing.html",
     "reason": "Expand the meta description with a stronger call-to-action and mention of the before/after and FAQ content already on the page, to improve click-through from search results.",
     "category": "meta_copy"
+  },
+  {
+    "file": "training/index.html",
+    "reason": "Current meta description is brief and lacks detail; the replacement mirrors page content (1:1 in-studio, online masterclass, beginner-friendly) to improve search relevance and CTR.",
+    "category": "meta_copy"
   }
 ]
