@@ -13,5 +13,10 @@
     "file": "shop/index.html",
     "reason": "Enriching the shop meta description with the brand name 'Nude by Crystal' and the free-shipping offer to improve search click-through.",
     "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand the meta description to include intent-matching phrases (before & afters, how it works, book) that reflect the page content, improving search snippet relevance.",
+    "category": "meta_copy"
   }
 ]
