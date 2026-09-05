@@ -13,5 +13,10 @@
     "file": "shop/index.html",
     "reason": "Expand meta description with brand name, additional product categories listed on the page, and the free-shipping offer to improve search visibility and CTR.",
     "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding a soft CTA and echoing the homepage headline makes the meta description more compelling in search results without making claims.",
+    "category": "meta_copy"
   }
 ]
