@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Replace generic meta description with keyword-rich copy naming core services to improve search click-through for key queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announcement bar states 'Free Shipping Over $80' but this FAQ answer says orders over $100 ship free — correcting to $80 to match, pending Crystal's confirmation of the actual threshold.",
+    "category": "faq_content"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Expand meta description with brand name, additional product categories listed on the page, and the free-shipping offer to improve search visibility and CTR.",
+    "category": "meta_copy"
+  }
+]
