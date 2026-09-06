@@ -1,0 +1,22 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; a more specific description mentioning key services improves click-through from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ says free shipping over $100 but the site-wide announcement bar on every page says 'Free Shipping Over $80' — this corrects the FAQ to match the banner, but needs Crystal's confirmation of the actual threshold.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand the meta description to mention page content (before & afters, FAQs, booking) for improved search snippet relevance and click-through.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Include the brand name 'Nude by Crystal' in the shop meta description to strengthen brand recognition and keyword coverage in search results.",
+    "category": "meta_copy"
+  }
+]
