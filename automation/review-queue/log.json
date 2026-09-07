@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; this version names the key services to improve search click-through for service-specific queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announce bar says 'Free Shipping Over $80' but this FAQ states '$100' — updating the FAQ to match the $80 threshold shown elsewhere.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adds a soft CTA and the brand tagline concept to the meta description to improve search click-through rate.",
+    "category": "meta_copy"
+  }
+]
