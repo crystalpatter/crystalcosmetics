@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; a more specific description featuring key services improves CTR for search queries like 'lip blushing Gold Coast'.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announcement bar says 'Free Shipping Over $80' but this FAQ answer says 'over $100' — aligning the FAQ to match the $80 threshold shown elsewhere.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand the meta description to include a call-to-action and the page's core value proposition for better search click-through.",
+    "category": "meta_copy"
+  }
+]
