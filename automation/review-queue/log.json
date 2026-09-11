@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; a more specific description mentioning key services and CTAs can improve click-through from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ states free shipping over $100, but the site-wide announcement bar on every page says 'Free Shipping Over $80' — this corrects the FAQ to match the banner, but needs Crystal's confirmation of the correct threshold.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding a soft CTA and the brand tagline phrase to the meta description can improve search click-through for the key services page.",
+    "category": "meta_copy"
+  }
+]
