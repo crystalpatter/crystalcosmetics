@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Replace generic meta description with a keyword-rich summary listing core services to improve search visibility for key Gold Coast queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ states free shipping over $100 but the site-wide announcement bar on every page says 'Free Shipping Over $80' — aligning the FAQ to match the banner.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand the meta description with a CTA and the brand's hero tagline to improve click-through from search results.",
+    "category": "meta_copy"
+  }
+]
