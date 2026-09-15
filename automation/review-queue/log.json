@@ -13,5 +13,10 @@
     "file": "services/cosmetic-tattooing.html",
     "reason": "Expanding the meta description to reference the page's rich content (process steps, before/after, FAQs) can improve click-through from search results.",
     "category": "meta_copy"
+  },
+  {
+    "file": "training/index.html",
+    "reason": "Expanding the meta description with details already on the page (in-studio, self-paced, online masterclass, beginner to experienced) to improve search click-through for training queries.",
+    "category": "meta_copy"
   }
 ]
