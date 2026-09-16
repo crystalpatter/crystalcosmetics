@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; this version includes high-intent keywords (lip blushing, powder brows, cosmetic tattooing, Gold Coast) to improve search click-through.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The announce bar on every page says 'Free Shipping Over $80' but this FAQ answer says 'over $100' — correcting the FAQ to match the sitewide banner.",
+    "category": "faq_content"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand the meta description with actionable detail (before & afters, booking CTA) to improve search click-through for the key services page.",
+    "category": "meta_copy"
+  }
+]
