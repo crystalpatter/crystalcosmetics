@@ -5,7 +5,7 @@ import os
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 BOOK_URL = "https://bookings.gettimely.com/crystalcosmetics/bb/book"
-IG_URL = "https://www.instagram.com/crystal.cosmetics.gc/"
+IG_URL = "https://www.instagram.com/bycrystalcosmetics/"
 FB_URL = "https://www.facebook.com/crystalpcosmetics/"
 
 def rel(depth, path):
