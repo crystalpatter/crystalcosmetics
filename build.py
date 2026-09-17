@@ -78,8 +78,7 @@ def footer(depth):
       <ul class="ft-links">
         <li><a href="{r('services/cosmetic-tattooing.html')}">Lip Blushing</a></li>
         <li><a href="{r('services/cosmetic-tattooing.html')}">Powder Brows</a></li>
-        <li><a href="{r('services/cosmetic-tattooing.html')}">Eyeliner Tattoo</a></li>
-        <li><a href="{r('services/collagen-induction-therapy.html')}">CIT Skin Needling</a></li>
+        <li><a href="{r('services/facial-waxing.html')}">Facial Waxing</a></li>
         <li><a href="{r('services/lashes-and-brows.html')}">Lashes &amp; Brows</a></li>
       </ul>
     </div>
