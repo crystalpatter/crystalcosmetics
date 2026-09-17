@@ -37,7 +37,7 @@
 })();
 
 // Newsletter / contact form wiring
-var FORMSPREE_ENDPOINT = ""; // paste your Formspree endpoint here once verified, e.g. "https://formspree.io/f/xxxxxxx"
+var FORMSPREE_ENDPOINT = "https://formspree.io/f/xeaoqeqd";
 var CONTACT_EMAIL = "info@crystalcosmetics.com.au";
 
 document.querySelectorAll('form[data-noop]').forEach(f => {
