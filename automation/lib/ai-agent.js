@@ -26,8 +26,7 @@ const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 export const SITE_CONTEXT = `
 Crystal Cosmetics is a cosmetic tattooing & beauty studio on the Gold Coast,
 Australia (brand line: "Nude by Crystal"). Services include lip blushing,
-powder brows, cosmetic tattooing, collagen induction therapy / microneedling,
-lash lift & tint, brow lamination, and 1:1 practitioner training. It also
+powder brows, cosmetic tattooing, facial waxing, hybrid dye & sculpt,lash lift & tint, brow lamination, and 1:1 practitioner training. It also
 sells a skincare/aftercare product range. The site is a static HTML/CSS/JS
 site (no framework) deployed on Vercel. Tone: warm, professional,
 premium-but-approachable beauty studio - never medical-claim language (no
