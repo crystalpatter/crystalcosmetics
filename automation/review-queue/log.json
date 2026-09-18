@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; a more specific description including key services improves search relevance for Gold Coast cosmetic tattooing queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The announce bar on every page says 'Free Shipping Over $80' but this FAQ answer says 'over $100' — one of them is wrong, flagging for Crystal to confirm and correct the inconsistency.",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "The copyright year says 2026 which appears to be premature — flagging for Crystal to confirm the correct year.",
+    "category": "service_copy"
+  }
+]
