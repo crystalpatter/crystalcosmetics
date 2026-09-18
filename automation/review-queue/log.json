@@ -13,5 +13,10 @@
     "file": "index.html",
     "reason": "The current homepage meta description is generic; adding specific service names (lip blushing, powder brows) that appear on the page improves keyword relevance and SERP click-through.",
     "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add LocalBusiness structured data using only values that appear verbatim in contact.html and index.html (address, phone, email, description, social URLs).",
+    "category": "safety_downgrade"
   }
 ]
