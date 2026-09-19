@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; this version includes key service names and the suburb for stronger local SEO.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand the thin meta description to mention all services on the page, pricing, and a CTA for better SERP click-through.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The announce bar sitewide says 'Free Shipping Over $80' but this FAQ answer says 'over $100' — correcting the FAQ to match the $80 threshold (needs Crystal to confirm which is right).",
+    "category": "faq_content"
+  }
+]
