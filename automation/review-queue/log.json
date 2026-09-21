@@ -18,5 +18,15 @@
     "file": "index.html",
     "reason": "Add LocalBusiness structured data using only values that appear verbatim in the provided files (contact.html address, phone, email, and social links).",
     "category": "safety_downgrade"
+  },
+  {
+    "file": "index.html",
+    "reason": "The homepage meta description is generic; adding specific service names and a call-to-action improves search relevance and click-through rate.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add LocalBusiness structured data using only values that appear verbatim in contact.html and index.html (address, phone, email, description, social URLs).",
+    "category": "safety_downgrade"
   }
 ]
