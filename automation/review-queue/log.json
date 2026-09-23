@@ -13,5 +13,10 @@
     "file": "index.html",
     "reason": "The homepage meta description is generic and doesn't mention specific services or a call to action; rewriting with service names already on the page improves search CTR.",
     "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Including specific service names in the hero subheading improves keyword relevance for searchers and makes the offering immediately clear.",
+    "category": "service_copy"
   }
 ]
