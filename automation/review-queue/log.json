@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; a more specific description mentioning key services improves click-through from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand the thin meta description to include pricing context and more service detail for better search visibility.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announce bar says 'Free Shipping Over $80' but this FAQ answer says '$100' — this corrects the FAQ to match the banner.",
+    "category": "faq_content"
+  }
+]
