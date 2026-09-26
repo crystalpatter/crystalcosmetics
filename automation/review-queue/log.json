@@ -18,5 +18,10 @@
     "file": "index.html",
     "reason": "Add LocalBusiness structured data using only values that appear verbatim in the provided files (contact.html address, phone, email; index.html social links and description).",
     "category": "safety_downgrade"
+  },
+  {
+    "file": "index.html",
+    "reason": "The current meta description is generic; this version includes key services and the brand name for better search visibility.",
+    "category": "meta_copy"
   }
 ]
