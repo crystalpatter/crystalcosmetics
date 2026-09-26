@@ -1,0 +1,22 @@
+[
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "The current meta description is very short and generic; expanding it to mention pricing, FAQs and booking better represents the rich page content and can improve CTR.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announcement bar says 'Free Shipping Over $80' but this FAQ says '$100' — aligning the FAQ to match the $80 threshold shown in the announce bar on every page.",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adding the specific service names and location to the hero subheading improves keyword relevance for the homepage's primary search terms.",
+    "category": "service_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add LocalBusiness structured data using only values that appear verbatim in the provided files (contact.html address, phone, email; index.html social links and description).",
+    "category": "safety_downgrade"
+  }
+]
