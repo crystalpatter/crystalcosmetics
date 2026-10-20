@@ -1,0 +1,22 @@
+[
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "The current meta description is very short (under 70 chars); expanding it to ~140 chars improves SERP click-through by incorporating key services listed on the page.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announcement bar says 'Free Shipping Over $80' but this FAQ answer says 'over $100' — this corrects the FAQ to match the $80 threshold shown across every page's announce bar.",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "The current homepage meta description is generic; adding specific service names (lip blushing, powder brows) that appear on the page improves keyword relevance and SERP click-through.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add LocalBusiness structured data using only values that appear verbatim in contact.html and index.html (address, phone, email, description, social URLs).",
+    "category": "safety_downgrade"
+  }
+]
