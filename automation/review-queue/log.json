@@ -1,0 +1,17 @@
+[
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "The current meta description is short and generic; expanding it with on-page terms (pricing, before & after, FAQs, book) improves click-through from search.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The site-wide announce bar says 'Free Shipping Over $80' but this FAQ answer says 'over $100' — this corrects the FAQ to match the $80 threshold shown everywhere else.",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "The homepage meta description is generic and duplicated in the footer; a more specific description with key service names improves search relevance and CTR.",
+    "category": "meta_copy"
+  }
+]
