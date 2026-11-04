@@ -1,0 +1,22 @@
+[
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "The current meta description is very short and generic; expanding it to include key page content (pricing, before & afters, FAQs, booking) improves CTR in search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ says free shipping over $100, but the site-wide announcement bar on every page says 'Free Shipping Over $80' — this corrects the FAQ to match the banner.",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "The homepage meta description is generic and doesn't mention specific services or a call to action; a more detailed description can improve search click-through rate.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adds key service names and location to the hero subheading for SEO value without changing tone.",
+    "category": "service_copy"
+  }
+]
