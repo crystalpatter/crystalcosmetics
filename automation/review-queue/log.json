@@ -1,0 +1,17 @@
+[
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand the thin meta description to include all listed services, the suburb, and a call to action for better search visibility.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ states free shipping over $100 but the site-wide announcement bar on every page says 'Free Shipping Over $80' — this corrects the inconsistency to match the announced threshold (needs Crystal's confirmation of the correct figure).",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "Replace the generic homepage meta description with one that includes key service terms, the suburb, and the product brand for improved search relevance.",
+    "category": "meta_copy"
+  }
+]
