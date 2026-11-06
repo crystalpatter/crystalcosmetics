@@ -1,0 +1,27 @@
+[
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Expand thin meta description to include all listed services, the suburb, and a call to action for better search click-through.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "contact.html",
+    "reason": "The FAQ says free shipping over $100 but the site-wide announce bar says 'Free Shipping Over $80' — this corrects the FAQ to match the banner so customers see a consistent threshold.",
+    "category": "faq_content"
+  },
+  {
+    "file": "index.html",
+    "reason": "Incorporate high-value keywords (lip blushing, powder brows, Gold Coast) into the hero subheading to improve on-page SEO while keeping the approachable tone.",
+    "category": "cta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add LocalBusiness structured data using only values that appear verbatim in the provided files (contact.html address, phone, email; footer social URLs; meta description).",
+    "category": "safety_downgrade"
+  },
+  {
+    "file": "index.html",
+    "reason": "Current homepage meta description is generic; adding specific service names improves relevance for high-intent search queries.",
+    "category": "meta_copy"
+  }
+]
