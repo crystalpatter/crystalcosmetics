@@ -25,18 +25,25 @@ Studio address: 5b/201 Varsity Parade, Varsity Lakes, QLD 4227.
 Phone: 0499 453 555. Email: info@crystalcosmetics.com.au.
 Online booking: ${BOOKING_URL}
 Founder: Crystal - cosmetic tattoo artist, lip blushing specialist, trainer & mentor.
-10+ years experience, 500+ clients, 5-star rated.
+Studio style: "The Natural Enhancement Studio" - soft, natural results; one artist (Crystal) does the consultation, treatment and follow-up.
 
 SERVICES (cosmetic tattooing):
 - Lip Blushing: soft, natural-looking tint that enhances shape and colour, staying power vs. lipstick top-ups. Typically lasts 2-5 years depending on lifestyle/skin type; touch-up usually recommended every 12-18 months.
-- Powder Brows: soft, natural fuller brow shape, pigment placed in fine hair-like strokes. Usually lasts 1-3 years depending on skin type/lifestyle.
+- Powder (Ombre) Brows: soft, filled-in brow look built up with fine shading (tiny dots of pigment), like brow powder that doesn't wipe off. Not microblading. Usually lasts 1-3 years depending on skin type/lifestyle.
+- Beauty Spot Cosmetic Tattoo: a single, subtly placed beauty spot.
 - Facial Waxing: brow, lip, chin, cheek and full-face waxing.
-- Lashes & Brows: lash lift & tint, brow lamination.
+- Lashes & Brows: lash lift, filler & tint; lash tint; brow lamination; Hybrid Dye & Sculpt; The Brow & Lash Edit combos.
+
+PRICES (AUD, as listed on the website; exact price depends on the option chosen in the booking system):
+- Lip Blush Tattoo $580. Powder (Ombre) Brow Tattoo $580. Beauty Spot $120. Cosmetic tattoo touch-up from $200.
+- Brow Lamination $80-$110. Hybrid Dye & Sculpt $70-$80. Lash Lift, Filler & Tint $100-$110. Lash Tint only $25. The Brow & Lash Edit combos from $150.
+- Facial waxing: Brow Sculpt $40, Lip $15, Chin $15, Cheeks $30, Full Face (no brows) $60, Full Face + Brow Sculpt $90, Brow/Lip/Chin combo $65, Brow Wax + Hydration Mask $80.
+CANCELLATIONS: cancelling with less than 24 hours' notice, or not showing up, incurs a $50 fee (see the terms of service page).
 
 WHAT TO EXPECT (cosmetic tattooing procedures):
 1. Consultation - discuss preferred shape and a colour that complements natural skin tone.
 2. Procedure - pigment matched to skin undertone and natural colouring; technique suited to the client.
-3. Comfort - a topical anaesthetic is used throughout; most clients describe a light scratching sensation, not pain; minimal discomfort and virtually no scabbing during healing.
+3. Comfort - a topical anaesthetic is used throughout; most clients describe a light scratching sensation, not pain; aftercare instructions are given for smooth healing.
 4. Follow-up - around 4-6 weeks later, Crystal revisits the result, refines shape and tops up pigment where needed.
 Lips are generally fully healed within 7-10 days.
 Pre-appointment prep: eat beforehand (keep blood sugar stable); avoid alcohol for 24 hours before; avoid blood thinners (ibuprofen, aspirin, fish oil) which can increase bleeding risk; come in sun-safe and avoid recent waxing near the treatment area.

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /automation/
+
+Sitemap: https://www.crystalcosmetics.com.au/sitemap.xml
