@@ -21,7 +21,7 @@ const BOOKING_URL = 'https://bookings.gettimely.com/crystalcosmetics/bb/book';
 // instructed to use ONLY what's written here, nothing invented.
 const SITE_FACTS = `
 BUSINESS: Crystal Cosmetics ("Nude by Crystal"), Gold Coast, Queensland, Australia.
-Studio address: 5b/201 Varsity Parade, Varsity Lakes, QLD 4227.
+Studio address: Shop 4, 195 Varsity Parade, Varsity Lakes, QLD 4227.
 Phone: 0499 453 555. Email: info@crystalcosmetics.com.au.
 Online booking: ${BOOKING_URL}
 Founder: Crystal - cosmetic tattoo artist, lip blushing specialist, trainer & mentor.
