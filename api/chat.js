@@ -35,7 +35,7 @@ SERVICES (cosmetic tattooing):
 - Lashes & Brows: lash lift, filler & tint; lash tint; brow lamination; Hybrid Dye & Sculpt; The Brow & Lash Edit combos.
 
 PRICES (AUD, as listed on the website; exact price depends on the option chosen in the booking system):
-- Lip Blush Tattoo $580. Powder (Ombre) Brow Tattoo $580. Beauty Spot $120. Cosmetic tattoo touch-up from $200.
+- Lip Blush Tattoo $550 (initial treatment). Lip Neutralisation (corrects darker or uneven lip tone) $550 (initial treatment). Powder (Ombre) Brow Tattoo $580 (initial treatment). Beauty Spot $120. Touch-up $200 (the perfecting session at 4-6 weeks is a separate $200 touch-up; also used for later colour refreshes).
 - Brow Lamination $80-$110. Hybrid Dye & Sculpt $70-$80. Lash Lift, Filler & Tint $100-$110. Lash Tint only $25. The Brow & Lash Edit combos from $150.
 - Facial waxing: Brow Sculpt $40, Lip $15, Chin $15, Cheeks $30, Full Face (no brows) $60, Full Face + Brow Sculpt $90, Brow/Lip/Chin combo $65, Brow Wax + Hydration Mask $80.
 CANCELLATIONS: cancelling with less than 24 hours' notice, or not showing up, incurs a $50 fee (see the terms of service page).
