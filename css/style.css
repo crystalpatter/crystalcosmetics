@@ -648,3 +648,8 @@ button.hdot { border: none; padding: 0; }
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
   .marquee-track { animation: none; }
 }
+
+/* In-text links (service pages, FAQs) */
+.sp a, .faq-a a { color: var(--charcoal); text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: 3px; }
+.sp a:hover, .faq-a a:hover { color: var(--rose); }
+.svc-links { line-height: 2.2; }
