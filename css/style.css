@@ -513,8 +513,8 @@ img, .ph { transition: transform .5s cubic-bezier(.22,1,.36,1); }
 .ph-hero3 { background-image:url('/images/hero/Crystal_Cosmetics_20.webp'); background-size:cover; background-position:center; background-color:transparent; }
 .ph-hero4 { background-image:url('/images/hero/Crystal_Cosmetics_38.webp'); background-size:cover; background-position:center; background-color:transparent; }
 .ph-lip { background-image:url('/images/services/Crystal_Cosmetics_02.webp'); background-size:cover; background-position:center; background-color:transparent; }
-.ph-train { background-image:url('/images/training/Crystal_Cosmetics_09.webp'); background-size:cover; background-position:center; background-color:transparent; }
-.ph-train2 { background-image:url('/images/training/Crystal_Cosmetics_03.webp'); background-size:cover; background-position:center; background-color:transparent; }
+.ph-train { background-image:url('/images/training/Crystal_Cosmetics_09.webp'); background-size:cover; background-position:center 12%; background-color:transparent; }
+.ph-train2 { background-image:url('/images/training/Crystal_Cosmetics_03.webp'); background-size:cover; background-position:center 35%; background-color:transparent; }
 .ph-c1 { background-image:url('/images/products/Crystal_Cosmetics_10.webp'); background-size:cover; background-position:center; background-color:transparent; }
 .ph-c2 { background-image:url('/images/products/Crystal_Cosmetics_7.webp'); background-size:cover; background-position:center; background-color:transparent; }
 .ph-c3 { background-image:url('/images/products/Crystal_Cosmetics_5.webp'); background-size:cover; background-position:center; background-color:transparent; }
