@@ -13,5 +13,15 @@
     "file": "index.html",
     "reason": "The current homepage meta description is generic and doesn't mention key services or location suburb; a more specific description can improve organic click-through rates.",
     "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding 'Pricing' to the title tag better matches the high-intent search queries this page targets and differentiates it from the homepage title.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "The existing meta description is under 100 characters and misses key terms like 'lip blushing specialist' and 'Varsity Lakes' that appear on the page.",
+    "category": "meta_copy"
   }
 ]
