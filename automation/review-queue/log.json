@@ -1,0 +1,27 @@
+[
+  {
+    "file": "about.html",
+    "reason": "Expand the thin meta description with on-page keywords (lip blushing specialist, Varsity Lakes, Sephora) to improve search relevance for the About page.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adding 'in Varsity Lakes' to the hero paragraph reinforces the local keyword for search without changing the tone.",
+    "category": "service_copy"
+  },
+  {
+    "file": "training/index.html",
+    "reason": "Appending 'self-paced' and 'All levels welcome' (both used on the page) makes the meta description more informative and slightly longer for better SERP display.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "More descriptive title tag that includes key search terms 'Cosmetic Tattoo Artist' and 'Trainer' to improve CTR for prospective clients and trainees.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "The 'From $25' tag on the Lashes & Brows card links to the brow lamination page where pricing starts at $80 (per schema data); $25 likely relates to facial waxing, which is a separate card — this could mislead visitors on price.",
+    "category": "service_copy"
+  }
+]
