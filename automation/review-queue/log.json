@@ -1,0 +1,17 @@
+[
+  {
+    "file": "about.html",
+    "reason": "Expand the thin meta description with on-page keywords (lip blushing specialist, Varsity Lakes, Sephora) to improve search relevance for the About page.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adding 'in Varsity Lakes' to the hero paragraph reinforces the local keyword for search without changing the tone.",
+    "category": "service_copy"
+  },
+  {
+    "file": "training/index.html",
+    "reason": "Appending 'self-paced' and 'All levels welcome' (both used on the page) makes the meta description more informative and slightly longer for better SERP display.",
+    "category": "meta_copy"
+  }
+]
