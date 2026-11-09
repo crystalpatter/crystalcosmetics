@@ -286,7 +286,7 @@ nav { position: sticky; top: 0; z-index: 500; background: rgba(250,248,244,0.97)
 
 /* ── TESTIMONIALS ── */
 .testi-hd { text-align: center; margin-bottom: 48px; }
-.testi-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 22px; }
+.testi-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 22px; max-width: 900px; margin: 0 auto; }
 .testi-card { background: white; padding: 34px 30px; position: relative; }
 .testi-qmark { position: absolute; top: 8px; left: 22px; font-family: var(--serif); font-size: 68px; font-weight: 300; color: rgba(217,175,166,0.3); line-height: 1; pointer-events: none; user-select: none; }
 .testi-stars { display: flex; gap: 2px; margin-bottom: 16px; padding-top: 28px; }
