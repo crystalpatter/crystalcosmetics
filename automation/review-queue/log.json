@@ -28,5 +28,10 @@
     "file": "services/cosmetic-tattooing.html",
     "reason": "The page covers lip neutralisation as a key service and lists it in pricing, but the hero subtitle omits it; adding it improves accuracy and keyword coverage.",
     "category": "service_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Current title is generic; adding the brand name 'Nude by Crystal' and product categories already on the page improves search relevance.",
+    "category": "meta_copy"
   }
 ]
