@@ -89,6 +89,7 @@ def footer(depth):
         <li><a href="{r('training/1-1-lip-tattooing-training.html')}">1:1 Training</a></li>
         <li><a href="{r('about.html')}">About Crystal</a></li>
         <li><a href="{r('blog/index.html')}">Beauty Blog</a></li>
+        <li><a href="{r('client-care.html')}">Client Care</a></li>
         <li><a href="{r('contact.html')}">Contact</a></li>
       </ul>
     </div>
