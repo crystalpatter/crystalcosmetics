@@ -653,3 +653,29 @@ button.hdot { border: none; padding: 0; }
 .sp a, .faq-a a { color: var(--charcoal); text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: 3px; }
 .sp a:hover, .faq-a a:hover { color: var(--rose); }
 .svc-links { line-height: 2.2; }
+
+/* ── Client care guide (client-care.html) ── */
+.care-sec { scroll-margin-top: 96px; }
+.care-wrap { max-width: 720px; margin: 0 auto; }
+.care .care-p { max-width: 620px; font-size: 14px; }
+.care-jump { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 26px; }
+.care-jump a { padding: 12px 20px; border: 1px solid rgba(44,36,32,0.22); font-size: 9.5px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--charcoal); text-decoration: none; font-weight: 500; transition: background 0.25s, color 0.25s, border-color 0.25s; }
+.care-jump a:hover { background: var(--charcoal); border-color: var(--charcoal); color: white; }
+.care-note { margin-top: 30px; padding: 16px 20px; border-left: 2px solid var(--gold); background: rgba(191,160,122,0.1); font-size: 13.5px; line-height: 1.8; color: var(--mid); font-weight: 300; }
+.care-urgent { border-left-color: var(--rose); background: rgba(217,175,166,0.16); color: var(--charcoal); }
+.care-note a, .care-refs a { color: var(--charcoal); text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: 3px; }
+.care-refs { margin-top: 22px; font-size: 12px; line-height: 1.8; color: var(--mid); font-weight: 300; }
+.care-list, .care .faq-a ul { list-style: none; margin: 0; padding: 0; }
+.care-list { margin-top: 26px; }
+.care-list li, .care .faq-a li { position: relative; padding: 0 0 13px 24px; font-size: 14px; line-height: 1.8; color: var(--mid); font-weight: 300; }
+.care-list li::before, .care .faq-a li::before { content: ''; position: absolute; left: 2px; top: 0.9em; width: 10px; height: 1px; background: var(--gold); }
+.care .faq-list { margin: 30px 0 0; }
+.care .faq-q { font-size: 18px; }
+.care .faq-item.open .faq-a { max-height: 1600px; }
+html:not(.js) .care .faq-a { max-height: none; }
+.care .faq-a p { font-size: 14px; }
+.care .faq-a ul { padding: 0 4px 10px; }
+.care .faq-a h3 { font-family: var(--serif); font-size: 18px; font-weight: 400; font-style: italic; color: var(--rose); margin: 2px 4px 10px; }
+.care-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 26px; margin-top: 28px; }
+.care-link { font-size: 9.5px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--charcoal); font-weight: 500; text-decoration: none; border-bottom: 1px solid var(--gold); padding-bottom: 4px; }
+.care-link:hover { color: var(--rose); }
