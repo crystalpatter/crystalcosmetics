@@ -1,0 +1,37 @@
+[
+  {
+    "file": "about.html",
+    "reason": "Adding role keywords already present on the page ('Cosmetic Tattoo Artist', 'Trainer') to the title tag improves search relevance for prospective clients and trainees.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Expanding the meta description with on-page terms ('lip blushing specialist', 'Varsity Lakes') and a clearer value proposition to improve CTR from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adding the studio location to the hero paragraph reinforces local relevance for Gold Coast searchers without changing the tone.",
+    "category": "service_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Puts the brand name first for stronger brand recognition in SERPs and adds 'Lash Studio' to reflect the full service range shown on the page.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adds price snippets, the term 'cosmetic tattoo studio' for search intent, and 'before & afters' to improve CTR from SERPs.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "The page covers lip neutralisation as a key service and lists it in pricing, but the hero subtitle omits it; adding it improves accuracy and keyword coverage.",
+    "category": "service_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Current title is generic; adding the brand name 'Nude by Crystal' and product categories already on the page improves search relevance.",
+    "category": "meta_copy"
+  }
+]
