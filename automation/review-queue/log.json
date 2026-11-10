@@ -1,0 +1,17 @@
+[
+  {
+    "file": "about.html",
+    "reason": "Adding role keywords already present on the page ('Cosmetic Tattoo Artist', 'Trainer') to the title tag improves search relevance for prospective clients and trainees.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Expanding the meta description with on-page terms ('lip blushing specialist', 'Varsity Lakes') and a clearer value proposition to improve CTR from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adding the studio location to the hero paragraph reinforces local relevance for Gold Coast searchers without changing the tone.",
+    "category": "service_copy"
+  }
+]
