@@ -132,3 +132,59 @@ document.querySelectorAll('form[data-noop]').forEach(function (f) {
       .then(function () { if (btn) btn.disabled = false; });
   });
 });
+
+// Anonymous visit counter for Crystal's morning report: how many people
+// visited, roughly where they came from, and how many tapped "Book".
+// No cookies and nothing about the visitor is stored: it only adds 1 to
+// today's totals. Remove this block to switch it off.
+(function visitCounter() {
+  var ENDPOINT = 'https://crystal-studio-seven.vercel.app/api/t';
+  try {
+    if (navigator.webdriver || /bot|crawl|spider|headless|lighthouse/i.test(navigator.userAgent)) return;
+    if (!/(^|\.)crystalcosmetics\.com\.au$/.test(location.hostname)) return; // not on previews or local copies
+    var ss = window.sessionStorage;
+    var q = new URLSearchParams(location.search);
+    function fromReferrer() {
+      var h = '';
+      try { h = document.referrer ? new URL(document.referrer).hostname : ''; } catch (e) {}
+      if (!h || /crystalcosmetics\.com\.au$/.test(h)) return 'direct';
+      if (/instagram\.com$|linktr\.ee$/.test(h)) return 'instagram';
+      if (/facebook\.com$|fb\.com$|messenger\.com$/.test(h)) return 'facebook';
+      if (/(^|\.)google\./.test(h)) return 'google';
+      if (/bing\.com$/.test(h)) return 'bing';
+      return 'other';
+    }
+    function source() {
+      var us = (q.get('utm_source') || '').toLowerCase();
+      var um = (q.get('utm_medium') || '').toLowerCase();
+      var paid = /cpc|ppc|paid|ads?$/.test(um);
+      if (q.get('gclid') || q.get('gbraid') || q.get('wbraid') || (/google/.test(us) && paid)) return 'google-ads';
+      if (paid && /facebook|instagram|meta|fb|ig/.test(us)) return 'paid-social';
+      if (/gmb|gbp|business|maps/.test(us)) return 'google-maps';
+      if (/instagram|ig|linktree/.test(us)) return 'instagram';
+      if (/facebook|fb|meta/.test(us)) return 'facebook';
+      if (/email|newsletter/.test(us + um)) return 'email';
+      if (us) return 'other';
+      return fromReferrer();
+    }
+    var first = !ss.getItem('cc_src');
+    if (first) ss.setItem('cc_src', source());
+    var src = ss.getItem('cc_src');
+    function send(e, n) {
+      var body = JSON.stringify({ e: e, s: src, p: location.pathname, n: n ? 1 : 0 });
+      if (!(navigator.sendBeacon && navigator.sendBeacon(ENDPOINT, new Blob([body], { type: 'text/plain' })))) {
+        fetch(ENDPOINT, { method: 'POST', body: body, keepalive: true, mode: 'cors' }).catch(function () {});
+      }
+    }
+    send('pv', first);
+    document.addEventListener('click', function (ev) {
+      var a = ev.target && ev.target.closest ? ev.target.closest('a[href]') : null;
+      if (!a) return;
+      if (/gettimely\.com/.test(a.href)) send('book');
+      else if (/^tel:/.test(a.getAttribute('href'))) send('call');
+    }, true);
+    document.addEventListener('submit', function (ev) {
+      if (ev.target && ev.target.matches && ev.target.matches('form[data-noop]')) send('form');
+    }, true);
+  } catch (e) { /* counting must never break the page */ }
+})();
