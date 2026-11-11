@@ -18,5 +18,15 @@
     "file": "blog/index.html",
     "reason": "Adds location specificity (Varsity Lakes) and more descriptive keywords matching existing blog content to improve CTR from search results.",
     "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "The current meta description is short (under 100 chars) and misses key service keywords and the suburb name that appear on the page, reducing CTR and local SEO value.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Current title is generic; adding the brand name 'Nude by Crystal' and product categories that already appear on the page improves search relevance and click-through.",
+    "category": "meta_copy"
   }
 ]
