@@ -13,5 +13,10 @@
     "file": "shop/index.html",
     "reason": "Adds the brand name 'Nude by Crystal' (used throughout the site) and a shipping mention to make the shop meta description more informative and click-worthy.",
     "category": "meta_copy"
+  },
+  {
+    "file": "blog/index.html",
+    "reason": "Adds location specificity (Varsity Lakes) and more descriptive keywords matching existing blog content to improve CTR from search results.",
+    "category": "meta_copy"
   }
 ]
