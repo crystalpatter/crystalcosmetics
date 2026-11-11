@@ -1,0 +1,32 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Adds the high-value keyword 'cosmetic tattooing' into the homepage meta description and front-loads it for better search visibility while keeping the same factual content.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Aligns the <title> with the og:title that already appears on the same page, improving click-through by surfacing Crystal's role in search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Adds the brand name 'Nude by Crystal' (used throughout the site) and a shipping mention to make the shop meta description more informative and click-worthy.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "blog/index.html",
+    "reason": "Adds location specificity (Varsity Lakes) and more descriptive keywords matching existing blog content to improve CTR from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "The current meta description is short (under 100 chars) and misses key service keywords and the suburb name that appear on the page, reducing CTR and local SEO value.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Current title is generic; adding the brand name 'Nude by Crystal' and product categories that already appear on the page improves search relevance and click-through.",
+    "category": "meta_copy"
+  }
+]
