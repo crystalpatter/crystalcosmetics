@@ -1,0 +1,22 @@
+[
+  {
+    "file": "about.html",
+    "reason": "Aligns the title tag with the og:title already on the same page for consistency and richer search snippets.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Adds the brand name 'Nude by Crystal' and key product terms to the title and meta description for better search visibility on branded and product queries.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "blog/index.html",
+    "reason": "Adds specific topic keywords (lip blushing, FAQs) and the suburb to the meta description to improve click-through from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "The #pricing anchor lands on the pricing section; changing 'Results' to 'FAQs' better describes what follows that section and reduces bounce from mismatched expectation.",
+    "category": "cta_copy"
+  }
+]
