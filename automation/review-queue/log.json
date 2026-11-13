@@ -1,0 +1,17 @@
+[
+  {
+    "file": "about.html",
+    "reason": "Align the <title> with the more descriptive og:title already on the same page, improving search snippet relevance for 'cosmetic tattoo artist Gold Coast'.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Include the brand name 'Nude by Crystal' and product keywords in the title/description to improve search visibility for the shop landing page.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Add a secondary hero CTA linking to the full services page so visitors who aren't ready to book can still explore all treatments from the homepage.",
+    "category": "cta_copy"
+  }
+]
