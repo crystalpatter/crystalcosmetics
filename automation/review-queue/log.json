@@ -1,0 +1,32 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Front-loading 'cosmetic tattooing' in the meta description targets the higher-volume search term while keeping all existing detail.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adding 'Cosmetic Tattoo Artist' and 'Varsity Lakes' to the title tag improves relevance for local and service-specific searches.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Expanding the meta description to include 'lip blushing specialist', 'Varsity Lakes' and a mention of training gives search engines more relevant detail and may improve CTR.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Leading with the brand name improves brand recognition in search results and browser tabs.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "The page now offers Beauty Spot Cosmetic Tattoo but the hero subtitle doesn't mention it; adding it improves accuracy and SEO coverage.",
+    "category": "service_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adds the Beauty Spot service to the meta description and removes specific dollar figures to reduce risk of outdated pricing in search snippets.",
+    "category": "meta_copy"
+  }
+]
