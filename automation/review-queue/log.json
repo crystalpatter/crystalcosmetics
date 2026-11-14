@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Front-loading 'cosmetic tattooing' in the meta description targets the higher-volume search term while keeping all existing detail.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adding 'Cosmetic Tattoo Artist' and 'Varsity Lakes' to the title tag improves relevance for local and service-specific searches.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Expanding the meta description to include 'lip blushing specialist', 'Varsity Lakes' and a mention of training gives search engines more relevant detail and may improve CTR.",
+    "category": "meta_copy"
+  }
+]
