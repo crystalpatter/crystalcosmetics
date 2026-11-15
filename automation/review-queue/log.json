@@ -13,5 +13,15 @@
     "file": "about.html",
     "reason": "Expands the thin meta description with location and service keywords already present on the page to improve CTR and relevance.",
     "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "The page now offers beauty spot tattoos but the hero subtitle only mentions lip blush and powder brows.",
+    "category": "service_copy"
+  },
+  {
+    "file": "training/index.html",
+    "reason": "Reword meta description to lead with user intent ('Learn lip blushing') and add 'self-paced' and 'all levels' from the page content to improve relevance.",
+    "category": "meta_copy"
   }
 ]
