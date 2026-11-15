@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Adds 'before-and-afters' to the meta description to better match search intent for cosmetic tattoo queries and differentiate in SERPs.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adding 'Cosmetic Tattoo Artist' to the title tag improves relevance for searchers looking for the artist behind the studio.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Expands the thin meta description with location and service keywords already present on the page to improve CTR and relevance.",
+    "category": "meta_copy"
+  }
+]
