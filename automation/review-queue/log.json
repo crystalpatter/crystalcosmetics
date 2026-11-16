@@ -1,0 +1,27 @@
+[
+  {
+    "file": "about.html",
+    "reason": "Expand the meta description to include key service terms and the suburb already used on the page, improving search snippet relevance.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Add the brand name 'Nude by Crystal' and product categories (already on the page) to the title tag for richer search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "blog/index.html",
+    "reason": "Add specific topic keywords and location already present on the page to improve the meta description's click-through appeal.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "Adding 'before-and-afters' mirrors on-page content and targets a common search modifier; removing 'Natural' avoids repeating the OG description.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adding 'Cosmetic Tattoo Artist' to the title tag improves relevance for searches about the artist and matches the page subtitle wording.",
+    "category": "meta_copy"
+  }
+]
