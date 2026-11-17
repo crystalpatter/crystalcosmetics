@@ -13,5 +13,15 @@
     "file": "shop/index.html",
     "reason": "Current title is generic; incorporating the brand name 'Nude by Crystal' and key product categories improves search relevance for shoppers.",
     "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adding 'Cosmetic Tattoo Artist' and 'Varsity Lakes' to the title tag for better keyword relevance in local search.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Expanding meta description with 'lip blushing specialist', location specificity, and a soft CTA to improve search click-through.",
+    "category": "meta_copy"
   }
 ]
