@@ -1,0 +1,27 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Adds 'before-and-afters' to the meta description to better match what the page actually offers and target a common search modifier; slightly shortens opening to stay within ~155 chars.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "The page now lists Beauty Spot Cosmetic Tattoo as a service with pricing, but the hero subtitle doesn't mention it; adding it improves accuracy and scannability.",
+    "category": "service_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Current title is generic; incorporating the brand name 'Nude by Crystal' and key product categories improves search relevance for shoppers.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adding 'Cosmetic Tattoo Artist' and 'Varsity Lakes' to the title tag for better keyword relevance in local search.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Expanding meta description with 'lip blushing specialist', location specificity, and a soft CTA to improve search click-through.",
+    "category": "meta_copy"
+  }
+]
