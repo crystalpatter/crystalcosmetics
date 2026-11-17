@@ -14,6 +14,11 @@
       "source": "/instagram",
       "destination": "https://www.instagram.com/bycrystalcosmetics/",
       "permanent": false
+    },
+    {
+      "source": "/book",
+      "destination": "https://bookings.gettimely.com/crystalcosmetics/bb/book",
+      "permanent": false
     }
   ],
   "headers": [
