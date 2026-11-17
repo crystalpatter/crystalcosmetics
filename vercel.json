@@ -1,21 +1,51 @@
 {
   "redirects": [
-    { "source": "/services/collagen-induction-therapy.html", "destination": "/services/cosmetic-tattooing.html", "permanent": true }
+    {
+      "source": "/services/collagen-induction-therapy.html",
+      "destination": "/services/cosmetic-tattooing.html",
+      "permanent": true
+    },
+    {
+      "source": "/review",
+      "destination": "https://www.google.com/maps/search/?api=1&query=Crystal+Cosmetics+Shop+4+195+Varsity+Parade+Varsity+Lakes",
+      "permanent": false
+    },
+    {
+      "source": "/instagram",
+      "destination": "https://www.instagram.com/bycrystalcosmetics/",
+      "permanent": false
+    }
   ],
   "headers": [
     {
       "source": "/images/(.*)",
-      "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800, stale-while-revalidate=2592000" }]
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=604800, stale-while-revalidate=2592000"
+        }
+      ]
     },
     {
       "source": "/(css|js)/(.*)",
-      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400, stale-while-revalidate=604800" }]
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, stale-while-revalidate=604800"
+        }
+      ]
     },
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
       ]
     }
   ]
