@@ -1,0 +1,17 @@
+[
+  {
+    "file": "about.html",
+    "reason": "The current meta description is short (under 100 chars) and misses keyword-rich detail already present on the page (Varsity Lakes, lip blushing specialist, Sephora origin story) that would improve SERP click-through.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "blog/index.html",
+    "reason": "Current meta description is generic and under 90 chars; adding specific topics already on the page (lip blushing, aftercare, Varsity Lakes) improves relevance and SERP snippet length.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Current title tag is very short and misses the brand name 'Nude by Crystal' and product categories already stated on the page, reducing search visibility for product queries.",
+    "category": "meta_copy"
+  }
+]
