@@ -13,5 +13,15 @@
     "file": "shop/index.html",
     "reason": "Current title tag is very short and misses the brand name 'Nude by Crystal' and product categories already stated on the page, reducing search visibility for product queries.",
     "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "The current title is thin; adding 'Cosmetic Tattoo Artist & Trainer' (wording already on the page) improves relevance for prospective clients and trainees searching by role.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "The page now offers beauty spot cosmetic tattoo (listed in pricing and service cards) but the hero subtitle omits it; this keeps the subtitle accurate.",
+    "category": "service_copy"
   }
 ]
