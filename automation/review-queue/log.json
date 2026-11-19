@@ -1,0 +1,17 @@
+[
+  {
+    "file": "about.html",
+    "reason": "The about page meta description is thin and misses key services and the suburb; expanding it with terms already on the page improves search snippet relevance.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "The shop title tag is very generic; adding the brand name 'Nude by Crystal' and product categories already listed on the page improves search visibility.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "blog/index.html",
+    "reason": "The blog index meta description is short and generic; expanding with terms from the page (lip blushing, Varsity Lakes) improves SERP click-through.",
+    "category": "meta_copy"
+  }
+]
