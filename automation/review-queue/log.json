@@ -13,5 +13,10 @@
     "file": "blog/index.html",
     "reason": "More specific meta description referencing lip blushing and Varsity Lakes (both appear on the page) to improve relevance and click-through from search.",
     "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding 'lip neutralisation' to the hero subtitle so the page intro matches all three cosmetic tattoo services listed and priced further down the same page.",
+    "category": "service_copy"
   }
 ]
