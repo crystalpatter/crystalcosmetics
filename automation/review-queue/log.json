@@ -1,0 +1,27 @@
+[
+  {
+    "file": "about.html",
+    "reason": "More descriptive title tag incorporating key service terms already on the page (cosmetic tattoo artist, trainer) for better search visibility.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Expanded meta description adds the location (Varsity Lakes) and specialty (lip blushing) already stated on the page, plus a soft CTA, improving CTR potential.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "blog/index.html",
+    "reason": "More specific meta description referencing lip blushing and Varsity Lakes (both appear on the page) to improve relevance and click-through from search.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding 'lip neutralisation' to the hero subtitle so the page intro matches all three cosmetic tattoo services listed and priced further down the same page.",
+    "category": "service_copy"
+  },
+  {
+    "file": "index.html",
+    "reason": "The Lashes & Brows card says 'From $25' but the Facial Waxing card and schema data show prices starting from $15 — this corrects the lowest 'from' price to match.",
+    "category": "service_copy"
+  }
+]
