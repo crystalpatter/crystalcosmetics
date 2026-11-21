@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Adding 'before-and-afters' to the meta description targets a high-intent search modifier and better reflects the page content (the Results section with before/after photos).",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adding 'Cosmetic Tattoo Artist & Trainer' to the title tag improves keyword relevance for people searching for a cosmetic tattoo artist on the Gold Coast, using wording already on the page.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Expanding the meta description with 'lip blushing specialist' and 'Varsity Lakes' adds the studio's key service and suburb, using wording already present on the page (the roles section and hero).",
+    "category": "meta_copy"
+  }
+]
