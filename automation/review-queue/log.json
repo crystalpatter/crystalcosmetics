@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Adding 'before-and-afters' to the meta description targets a common search modifier and better reflects the page content (the Results section with before/after photos).",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "More descriptive title tag improves click-through from search by surfacing Crystal's role as artist and trainer, using wording already on the page.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Richer meta description includes 'lip blushing specialist' and 'Varsity Lakes' (both on-page terms) to improve relevance for local and service-specific queries.",
+    "category": "meta_copy"
+  }
+]
