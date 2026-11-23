@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Adding 'before-and-afters' mirrors on-page content and targets a common search modifier; removing redundant 'Natural' frees characters for the extra detail.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adding 'Varsity Lakes' and 'lip blushing specialist' to the title and description improves local SEO and aligns with wording already used on the page.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "training/index.html",
+    "reason": "Adding 'Lip Blushing Courses' to the title targets the high-intent keyword; description rewrite uses existing on-page wording ('all levels welcome') for richer snippet.",
+    "category": "meta_copy"
+  }
+]
