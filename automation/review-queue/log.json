@@ -18,5 +18,10 @@
     "file": "blog/index.html",
     "reason": "The current blog index meta description is generic; the replacement incorporates specific topic keywords (lip blushing reviews, cosmetic tattoo guides) that match existing article titles, improving CTR from search.",
     "category": "meta_copy"
+  },
+  {
+    "file": "services/cosmetic-tattooing.html",
+    "reason": "Adding lip neutralisation and artist/location context to the hero subtitle reinforces all three core services listed on the page and improves local relevance.",
+    "category": "service_copy"
   }
 ]
