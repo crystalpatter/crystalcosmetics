@@ -13,5 +13,10 @@
     "file": "services/cosmetic-tattooing.html",
     "reason": "The beauty spot price ($120) is listed in the pricing table lower on this same page but missing from the service card above; adding it keeps the card consistent with the lip blush and powder brow cards that link to dedicated price pages.",
     "category": "service_copy"
+  },
+  {
+    "file": "blog/index.html",
+    "reason": "The current blog index meta description is generic; the replacement incorporates specific topic keywords (lip blushing reviews, cosmetic tattoo guides) that match existing article titles, improving CTR from search.",
+    "category": "meta_copy"
   }
 ]
