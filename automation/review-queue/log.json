@@ -13,5 +13,15 @@
     "file": "index.html",
     "reason": "The 'Lashes & Brows' card links to the brow lamination page; linking to the lash lift page better matches the card's name and covers both lash/brow services as a landing point.",
     "category": "cta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "The shop title tag is very generic; adding the brand name 'Nude by Crystal' and product categories already on the page improves click-through from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "blog/index.html",
+    "reason": "Blog index meta description is thin; adding the suburb and specific topic keywords already used on the page strengthens the search snippet.",
+    "category": "meta_copy"
   }
 ]
