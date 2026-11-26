@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Adding 'before-and-afters' mirrors on-page content and targets a common search modifier; removing redundant 'Natural' frees character budget for the new phrase.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adding 'Cosmetic Tattoo Artist' to the title tag improves relevance for searches about the artist behind the studio and aligns with text already on the page ('Cosmetic tattoo artist, trainer').",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Enriches the meta description with 'lip blushing specialist' and 'Varsity Lakes', both of which appear on the page, improving click-through for local and service-specific searches.",
+    "category": "meta_copy"
+  }
+]
