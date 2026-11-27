@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Removes the subjective claim 'Natural' as the opening word of the meta description and adds a clearer CTA ('book your consultation') to improve click-through from search results.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adds the key service term 'Cosmetic Tattoo Artist' and the suburb 'Varsity Lakes' to the title tag for better local SEO relevance.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "Replaces the generic 'Shop' title with keyword-rich product categories and the brand name 'Nude by Crystal' that already appears on the page, improving search visibility.",
+    "category": "meta_copy"
+  }
+]
