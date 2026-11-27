@@ -13,5 +13,10 @@
     "file": "shop/index.html",
     "reason": "Replaces the generic 'Shop' title with keyword-rich product categories and the brand name 'Nude by Crystal' that already appears on the page, improving search visibility.",
     "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Expands the thin meta description with the specific service 'lip blushing', suburb 'Varsity Lakes', and a clear value proposition to improve CTR.",
+    "category": "meta_copy"
   }
 ]
