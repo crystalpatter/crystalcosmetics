@@ -1,0 +1,17 @@
+[
+  {
+    "file": "index.html",
+    "reason": "Adding 'before-and-afters' to the meta description targets a high-intent search modifier and better reflects the page content (the Results section with before/after photos).",
+    "category": "meta_copy"
+  },
+  {
+    "file": "about.html",
+    "reason": "Adding 'Cosmetic Tattoo Artist & Trainer' to the title tag improves relevance for prospective clients and trainees searching for the artist's credentials.",
+    "category": "meta_copy"
+  },
+  {
+    "file": "shop/index.html",
+    "reason": "The current title is generic; adding specific product categories and the brand name 'Nude by Crystal' improves search visibility and click-through for product queries.",
+    "category": "meta_copy"
+  }
+]
